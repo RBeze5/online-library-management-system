@@ -9,6 +9,7 @@ Backend Development:
 Utilize Node.js as the primary runtime environment.
 Implement server-side logic using Express.js.
 Integrate MongoDB as the database for data persistence.
+
 Frontend Development:
 
 Develop the user interface with React.js, ensuring a responsive and intuitive design.
